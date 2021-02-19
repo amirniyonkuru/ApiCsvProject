@@ -1,3 +1,4 @@
 
 * linguist-vendored
 *.shell linguist-vendored=false
+*.python linguist-detectable=true 
