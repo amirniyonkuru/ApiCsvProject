@@ -1,9 +1,0 @@
-0000000000000000000000000000000000000000 9258830180a1b1975aea8b76d131935587e864c4 Amir <946522@gmail.com> 1613687710 +0100	commit (initial): my initial commit starting the project
-9258830180a1b1975aea8b76d131935587e864c4 afb9012ad6d09787b2a84c36a0e3ef98e89063f8 Amir <946522@gmail.com> 1613687899 +0100	commit: Added a readme file
-afb9012ad6d09787b2a84c36a0e3ef98e89063f8 4404543acc3edda4c5d7d45b368500409b32189c Amir <946522@gmail.com> 1613688314 +0100	commit: updated readme file
-4404543acc3edda4c5d7d45b368500409b32189c a0030bde121fcd5105ebe27a21756181591b5fb3 Amir <946522@gmail.com> 1613710209 +0100	commit: v1 of the project
-a0030bde121fcd5105ebe27a21756181591b5fb3 be9d4770c35cab94c078ba5f0ac8c0892f9869b3 Amir <946522@gmail.com> 1613748776 +0100	commit: Added a requirements file
-be9d4770c35cab94c078ba5f0ac8c0892f9869b3 39f7623d6361034c8fd336cf6787d661a56c7867 Amir <946522@gmail.com> 1613749713 +0100	commit: Added Environment variables
-39f7623d6361034c8fd336cf6787d661a56c7867 cefca070ef067a7bc78bf6e21caa45eb4b0ab563 Amir <946522@gmail.com> 1613759578 +0100	commit: change views to one view with 2 methods
-cefca070ef067a7bc78bf6e21caa45eb4b0ab563 8a4d7bbadbea5dd582c69dc5b66da289381c10b8 Amir <946522@gmail.com> 1613759754 +0100	commit: updated readme file
-8a4d7bbadbea5dd582c69dc5b66da289381c10b8 a234007930d6dd9350231ec557da60d7c4a9bf38 Amir <946522@gmail.com> 1613760006 +0100	commit (merge): Merge branch 'master' of https://github.com/amirniyonkuru/ApiCsvProject
